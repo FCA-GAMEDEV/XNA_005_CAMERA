@@ -1,0 +1,14 @@
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\Content\Textures\logoJD.xnb
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\AulaXNA3D005.exe
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\AulaXNA3D005.pdb
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.exe
+C:\Users\Fábio\documents\visual studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.pdb
+C:\Users\Fábio\Documents\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.csprojResolveAssemblyReference.cache
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\Content\Textures\logoJD.xnb
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\AulaXNA3D005.exe
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\bin\x86\Debug\AulaXNA3D005.pdb
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.csprojResolveAssemblyReference.cache
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.exe
+G:\Documentos\Visual Studio 2010\Projects\AulaXNA3D005\AulaXNA3D005\AulaXNA3D005\obj\x86\Debug\AulaXNA3D005.pdb
